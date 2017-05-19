@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d(TAG, "onCreate: feather");
         Log.d(TAG, "onCreate: feather_2");
+        Log.d(TAG, "onCreate: add_feater1_on_main");
+        Log.d(TAG, "onCreate: add_feater4_on_main");
     }
 }
